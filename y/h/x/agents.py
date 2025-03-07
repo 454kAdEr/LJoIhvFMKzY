@@ -121,7 +121,6 @@ def getTools():
         ),
         Tool.from_function(
             func=abstract.run,
-            name="Abstract",
             description="Carefully study the essential features or mechanisms that make the biological strategies \
             successful. Restate them in non-biological terms, as “design strategies.”"
         ),
