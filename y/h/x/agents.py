@@ -5,7 +5,6 @@ from langchain.chat_models import ChatOpenAI
 from langchain.memory import ConversationBufferMemory
 from langchain.prompts.chat import MessagesPlaceholder
 from langchain.tools import Tool
-from langchain import LLMChain, OpenAI
 from decouple import config
 from retrieval import SemanticScholarSearch
 
