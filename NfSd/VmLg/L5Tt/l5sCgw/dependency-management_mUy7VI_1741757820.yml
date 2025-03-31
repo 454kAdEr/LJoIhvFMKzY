@@ -3,7 +3,6 @@ checks:
   argument-count:
     enabled: false
   complex-logic:
-    enabled: false
   file-lines:
     enabled: false
   method-complexity:
