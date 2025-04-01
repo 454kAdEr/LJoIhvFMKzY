@@ -287,7 +287,6 @@ issues:
     - path: k8s.io/
       linters:
       - musttag
-
     # Various fields related to native patch and transform Composition are
     # deprecated, but we can't drop support from Crossplane 1.x. We ignore the
     # warnings globally instead of suppressing them with comments everywhere.
