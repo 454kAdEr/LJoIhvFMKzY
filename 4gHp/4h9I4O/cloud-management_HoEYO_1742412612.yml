@@ -191,7 +191,6 @@ linters-settings:
     require-specific: true
   
   depguard:
-    rules:
       no_third_party_test_libraries:
         list-mode: lax
         files:
