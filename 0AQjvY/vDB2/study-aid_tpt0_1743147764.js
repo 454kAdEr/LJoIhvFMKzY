@@ -9,7 +9,6 @@ function midpoint(min, max) {
 
     if (array[middle] === target) return middle;
     else if (array[middle] < target) min = middle + 1;
-    else max = middle - 1;
   }
 
   return -1;
