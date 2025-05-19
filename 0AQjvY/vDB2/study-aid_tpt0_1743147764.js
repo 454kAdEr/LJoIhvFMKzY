@@ -4,7 +4,6 @@ function midpoint(min, max) {
   return Math.floor((max + min) / 2);
 }
 
-function binarySearch(array, target, min, max) {
   while (min <= max) {
     var middle = midpoint(min, max);
 
