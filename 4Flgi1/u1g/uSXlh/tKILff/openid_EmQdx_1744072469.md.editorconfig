@@ -14,5 +14,4 @@ indent_size = 2
 
 indent_style = tab
 
-[{config.yaml.dist,config.dev.yaml}]
 indent_size = 2
