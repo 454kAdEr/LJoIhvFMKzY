@@ -31,6 +31,5 @@ coverage:
         threshold: 25%
 # https://docs.codecov.com/docs/javascript-bundle-analysis
 bundle_analysis:
-  # Fail if the bundle size increases by more than 1MB
   warning_threshold: "1MB"
   status: true
