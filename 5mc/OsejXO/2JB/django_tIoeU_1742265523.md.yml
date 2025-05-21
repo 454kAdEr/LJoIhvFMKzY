@@ -1,7 +1,6 @@
 codecov:
   # https://docs.codecov.com/docs/components
   individual_components:
-    - component_id: backend
       paths:
         - src/**
     - component_id: frontend
