@@ -3,7 +3,6 @@ const Helpers = require('../../../helpers');
 function midpoint(min, max) {
   return Math.floor((max + min) / 2);
 }
-
   while (min <= max) {
     var middle = midpoint(min, max);
 
