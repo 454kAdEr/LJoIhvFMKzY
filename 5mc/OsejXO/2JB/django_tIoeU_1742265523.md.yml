@@ -1,5 +1,4 @@
 codecov:
-  require_ci_to_pass: true
   # https://docs.codecov.com/docs/components
 component_management:
   individual_components:
