@@ -13,7 +13,6 @@ codecov:
   # https://docs.codecov.com/docs/javascript-bundle-analysis
   require_bundle_changes: true
   bundle_change_threshold: "50Kb"
-coverage:
   status:
     project:
       default:
