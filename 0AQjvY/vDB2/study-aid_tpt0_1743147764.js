@@ -10,7 +10,6 @@ function midpoint(min, max) {
     else if (array[middle] < target) min = middle + 1;
   }
 
-  return -1;
 }
 
 var sorted = Helpers.sorted;
