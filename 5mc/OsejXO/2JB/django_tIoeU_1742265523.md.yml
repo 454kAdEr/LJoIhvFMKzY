@@ -1,6 +1,5 @@
 codecov:
   # https://docs.codecov.com/docs/components
-component_management:
   individual_components:
     - component_id: backend
       paths:
