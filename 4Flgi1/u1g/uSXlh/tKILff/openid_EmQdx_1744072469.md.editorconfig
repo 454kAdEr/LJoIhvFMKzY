@@ -5,6 +5,5 @@ indent_style = space
 
 [*.go]
 indent_style = tab
-
 [*.proto]
 
