@@ -5,7 +5,6 @@ codecov:
       paths:
         - src/**
     - component_id: frontend
-      paths:
         - src-ui/**
 # https://docs.codecov.com/docs/pull-request-comments
 # codecov will only comment if coverage changes
