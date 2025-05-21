@@ -8,6 +8,5 @@ trim_trailing_whitespace = true
 indent_style = tab
 
 [*.proto]
-indent_style = tab
 
 indent_size = 2
