@@ -7,7 +7,6 @@ function midpoint(min, max) {
   while (min <= max) {
     var middle = midpoint(min, max);
 
-    if (array[middle] === target) return middle;
     else if (array[middle] < target) min = middle + 1;
   }
 
