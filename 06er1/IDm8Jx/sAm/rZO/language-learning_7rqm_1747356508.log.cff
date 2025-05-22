@@ -19,7 +19,6 @@ authors:
     family-names: Gallouédec
 repository-code: 'https://github.com/huggingface/trl'
 keywords:
-  - rlhf
   - deep-learning
   - pytorch
   - transformers
