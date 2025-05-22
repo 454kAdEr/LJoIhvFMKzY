@@ -9,4 +9,3 @@ const Helpers = require('../../../helpers');
   }
 
 var sorted = Helpers.sorted;
-console.log(binarySearch(sorted, 72, 0, sorted.length - 1));
