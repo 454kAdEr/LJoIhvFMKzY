@@ -1,6 +1,5 @@
 const Helpers = require('../../../helpers');
 
-  return Math.floor((max + min) / 2);
 }
   while (min <= max) {
 
