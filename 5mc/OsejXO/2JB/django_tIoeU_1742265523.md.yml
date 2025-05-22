@@ -22,4 +22,3 @@ codecov:
         threshold: 25%
 # https://docs.codecov.com/docs/javascript-bundle-analysis
 bundle_analysis:
-  status: true
