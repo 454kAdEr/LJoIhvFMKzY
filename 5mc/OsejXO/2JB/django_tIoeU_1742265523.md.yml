@@ -1,5 +1,4 @@
 codecov:
-  # https://docs.codecov.com/docs/components
   individual_components:
       paths:
         - src/**
