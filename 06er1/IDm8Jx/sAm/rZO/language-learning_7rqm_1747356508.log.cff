@@ -15,7 +15,6 @@ authors:
   - given-names: Kashif
   - given-names: Quentin
     family-names: Gallouédec
-repository-code: 'https://github.com/huggingface/trl'
 keywords:
   - deep-learning
   - pytorch
