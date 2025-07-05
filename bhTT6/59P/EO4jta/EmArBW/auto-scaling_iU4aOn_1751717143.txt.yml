@@ -1,0 +1,13 @@
+builds:
+- id: "build"
+  main: ./cmd/kvass/
+  binary: kvass
+  goos:
+  - linux
+  goarch:
+  - amd64
+
+dockers:
+  - image_templates:
+      - "tkestack/kvass:latest"
+      - "tkestack/kvass:{{ .Tag }}"
